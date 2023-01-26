@@ -12,7 +12,7 @@
 ## Knows me better on
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="instagram" style="width:30px"/>](https://instagram.com/kucingnya_shada)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="instagram" style="width:45px"/>](https://instagram.com/kucingnya_shada)
 
 
 ![bintangshada's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintangshada&show_icons=true&theme=merko)
