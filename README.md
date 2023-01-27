@@ -11,14 +11,13 @@
 
 ## Knows me better on
 
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="instagram" style="width:45px"/>](https://instagram.com/kucingnya_shada)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bintangshada&show_icons=true&theme=dark&locale=en" alt="bintangshada" /></p>
 
 
-
+### https://linktr.ee/bintangshada 
 
 <!--
 **bintangshada/bintangshada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
