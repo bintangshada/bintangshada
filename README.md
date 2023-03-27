@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangshada&label=Profile%20views&color=0e75b6&style=flat" alt="bintangshada" /> </p>
 
 
-- 🌱 I’m currently learning Godot and Java
+- 🌱 I’m currently learning Web Development and Laravel
 
-- 🤔 I’m looking for help with Game Development
+- 🤔 I’m looking for help with Web Development
 
-- 📫 How to reach me: bintangshada45@gmail.com
+- 📫 How to reach me: https://linktr.ee/bintangshada
 
 ## Knows me better on
 
