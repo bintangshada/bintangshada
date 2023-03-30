@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with Web Development
 
-- 📫 How to reach me: https://linktr.ee/bintangshada
+- 📫 How to reach me: bintangshada45@gmail.com
 
 ## Knows me better on
 
