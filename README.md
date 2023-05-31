@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangshada&label=Profile%20views&color=0e75b6&style=flat" alt="bintangshada" /> </p>
 
 
-- 🌱 I’m currently learning Web Development and Laravel
+- 🌱 I’m currently learning Web Development and API Development
 
 - 🤔 I’m looking for help with Web Development
 
