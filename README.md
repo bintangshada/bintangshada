@@ -17,8 +17,9 @@
 </p>
 
 
-
+<br>
 <b>Or you can click link below</b>
+
 #### [My linktree](https://linktr.ee/bintangshada)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bintangshada&show_icons=true&theme=dark&locale=en" alt="bintangshada" /></p>
