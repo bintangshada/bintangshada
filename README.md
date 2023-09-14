@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Web Development and API Development
 
-- 🤔 I’m looking for help with Web Development
+- 🤔 I’m looking for help with Backend Development
 
 - 📫 How to reach me: bintangshada45@gmail.com
 
